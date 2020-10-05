@@ -7,3 +7,5 @@
 -`bubble_sort` сортировка пузырьком https://habr.com/ru/post/204600/
 
 -`shaker_sort` шейкерская сортировка https://habr.com/ru/post/204600/
+
+-`even-odd_sort` четно-нечётная сортировка https://habr.com/ru/post/204600/

@@ -12,6 +12,7 @@
         <module>common</module>
         <module>tester</module>
         <module>shaker_sort</module>
+        <module>even-odd_sort</module>
     </modules>
     <packaging>pom</packaging>
 
