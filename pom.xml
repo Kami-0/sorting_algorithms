@@ -11,6 +11,7 @@
         <module>bubble_sort</module>
         <module>common</module>
         <module>tester</module>
+        <module>shaker_sort</module>
     </modules>
     <packaging>pom</packaging>
 

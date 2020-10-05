@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
         <module name="bubble_sort" />
+        <module name="shaker_sort" />
       </profile>
     </annotationProcessing>
   </component>

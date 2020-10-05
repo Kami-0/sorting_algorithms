@@ -4,6 +4,7 @@ import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import ru.kami.sort.bubble.BubbleSort;
+import ru.kami.sort.shaker.ShakerSort;
 
 import java.util.Arrays;
 
@@ -17,4 +18,9 @@ public class SortTest {
         Assert.assertArrayEquals(bubbleSortArray, sortedArray);
     }
 
+    @Test
+    void shakerSortTest() {
+        final int[] shakeSortArray = new ShakerSort().sort(unsortedArray);
+        Assert.assertArrayEquals(shakeSortArray, sortedArray);
+    }
 }
